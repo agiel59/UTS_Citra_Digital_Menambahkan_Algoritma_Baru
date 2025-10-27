@@ -1,2 +1,2 @@
 # Klasifikasi Daun Herbal
-akses dataset : https://drive.google.com/drive/folders/1CHJdJ3dbrbJYHbOETsyyEFXtfG45kthA?usp=sharing
+akses dataset : https://drive.google.com/drive/folders/1k66FLGQUMsIIQG6jgiPUZvEvFGEAYoSS?usp=sharing
